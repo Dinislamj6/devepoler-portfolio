@@ -183,3 +183,12 @@ nav ul{
     width: 100px;
     padding: 18px 30px;
 }
+.contact-primary{
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+
+}
