@@ -156,3 +156,25 @@ main{
     margin: 30px;
 
 }
+/* contact style */
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+.sub-contact{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.contact input, textarea{
+    margin-bottom: 24px;
+    border: 0;
+}
+.lorem-description{
+    margin-bottom: 15px;
+}
+.contact a{
+    text-decoration: none;
+}
+
