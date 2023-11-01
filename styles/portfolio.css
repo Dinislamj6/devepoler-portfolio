@@ -125,3 +125,34 @@ main{
     margin-top: 10px;
     
 }
+/* resume styles */
+.resume-content{
+    display: flex;
+    gap: 24px;
+    
+}
+.title{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.sub-title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.resume .description{
+    color: #ffffff;
+
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.cv{
+    text-align: center;
+    margin: 30px;
+
+}
